@@ -1,2 +1,4 @@
 # registry-mirror
-Docker Registry Mirror (Docker Hub)
+
+Docker Registry Mirror (Docker Hub).
+
