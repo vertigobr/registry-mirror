@@ -18,4 +18,6 @@ health:
     threshold: 3
 # mirror
 proxy:
- remoteurl: https://registry-1.docker.io
+  remoteurl: https://registry-1.docker.io
+  username: vkprtest
+  password: dzv7mibdQwhG9Ly
